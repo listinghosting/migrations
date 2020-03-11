@@ -1,7 +1,7 @@
 {
     "name": "listinghosting/migrations",
     "description": "Migrations system for WHSuite Framework",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "listinghosting",
