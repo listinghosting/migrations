@@ -1,0 +1,22 @@
+{
+    "name": "listinghosting/migrations",
+    "description": "Migrations system for WHSuite Framework",
+    "license": "",
+    "authors": [
+        {
+            "name": "listinghosting",
+            "email": "git@listinghosting.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "4.1.*@dev",
+        "symfony/filesystem": "2.3.*@dev",
+        "symfony/finder": "2.3.*@dev"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\Migrations" : "src/"
+        }
+    }
+}
